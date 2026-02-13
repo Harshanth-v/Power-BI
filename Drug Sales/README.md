@@ -75,7 +75,7 @@ This dashboard serves as a **decision-support tool** for sales managers, marketi
 If you’d like to know more about this project or collaborate on similar Power BI dashboards, feel free to reach out:  
 
 - 💼 **LinkedIn:**www.linkedin.com/in/harshanth-v-1a2356281/  
-- 🌐 **Portfolio / Website:** https://github.com/DarshanJP-007  
+- 🌐 **Portfolio / Website:**https://github.com/Harshanth-v
 - 📩 **Email:**balajiharshanth1234@gmail.com  
 
 I’m always happy to connect, share insights, or discuss new projects!
